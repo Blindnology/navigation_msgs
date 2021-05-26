@@ -14,6 +14,7 @@ add_message_files(
     msg
   FILES
     RecoveryStatus.msg
+    Feedback.msg
 )
 
 # actions
