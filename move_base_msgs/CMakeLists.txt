@@ -13,8 +13,8 @@ add_message_files(
   DIRECTORY
     msg
   FILES
-    RecoveryStatus.msg
     Feedback.msg
+    RecoveryStatus.msg
 )
 
 # actions
